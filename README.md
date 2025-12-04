@@ -1,4 +1,4 @@
-# RTFCompare-release
+# RTFCompare
 RTFCompare - app which helps to compare new RTF outputs vs previous version to identify differences.
 
 Python app compiled into onefile-executable using Nuitka tool.
