@@ -9,3 +9,7 @@ For detailed analysis, double-click or press Enter on any file pair to open a si
 in orange for easy identification.
 
 <img src="Pictures/main_1.png" width="640"> 
+
+Reults copied to the clipboard or saved to txt file:
+
+<img src="Pictures/clipboard_1.png" width="320"> 
