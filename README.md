@@ -10,6 +10,10 @@ in orange for easy identification.
 
 <img src="Pictures/main_1.png" width="640"> 
 
+Side-by-side comparison:
+
+<img src="Pictures/compare_1.png" width="640"> 
+
 Reults copied to the clipboard or saved to txt file:
 
 <img src="Pictures/clipboard_1.png" width="320"> 
