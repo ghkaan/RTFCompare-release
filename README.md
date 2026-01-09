@@ -20,4 +20,4 @@ Side-by-side comparison:
 
 Reults copied to the clipboard or saved to txt file:
 
-<img src="Pictures/clipboard_1.png" width="320"> 
+<img src="Pictures/clipboard_1.png" width="480"> 
