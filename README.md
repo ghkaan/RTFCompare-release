@@ -5,7 +5,9 @@ Python app compiled into Windows onefile-executable using Nuitka tool.
 
 The main window allows you to select two folders containing RTF files: one with older versions and one with newer versions. You can run comparison, copy results to the clipboard, clear results area. The tool automatically pairs files by filename and analyzes each RTF document, extracting and comparing three sections: Header, Body, and Footer. Differences between versions are clearly displayed in a color-coded results table. User can also use main menu or hotkeys to select folders, save results to txt or csv file, run comparison etc.
 
-There are two checkboxes: Intext titles and footontes - this one can be used to treat text entered before or after the table structure on each page as titles and footnotes, Indent columns - to adjust width of all columns in identified table structure for better visual appearance in side-by-side viewer.
+There are two checkboxes:
+* Intext titles and footontes - this one can be used to treat text entered before or after the table structure on each page as titles and footnotes,
+* Indent columns - to adjust width of all columns in identified table structure for better visual appearance in side-by-side viewer.
 
 Results can be sorted in ascending or descending order by any column.
 
