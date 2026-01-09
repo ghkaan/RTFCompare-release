@@ -18,6 +18,6 @@ Side-by-side comparison:
 
 <img src="Pictures/compare_1.png" width="640"> 
 
-Reults copied to the clipboard or saved to txt file:
+Reults copied to the clipboard or saved to txt or csv file:
 
-<img src="Pictures/clipboard_1.png" width="480"> 
+<img src="Pictures/clipboard_1.png" width="320"> <img src="Pictures/csv_1.png" width="320"> 
