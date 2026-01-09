@@ -34,7 +34,7 @@ SHA1    B53AC540CE16EDF19E7E88A2F8D346518EB61812
 SHA256  F3577BCC9D9B1D5EA84968BDFF353A9CB6FAB3D669EC842BED7BA4FEFA5E428D
 ```
 <sub>VisrusTotal check results:</sub><br>
-https://www.virustotal.com/gui/file/f3577bcc9d9b1d5ea84968bdff353a9cb6fab3d669ec842bed7ba4fefa5e428d
+<sup>https://www.virustotal.com/gui/file/f3577bcc9d9b1d5ea84968bdff353a9cb6fab3d669ec842bed7ba4fefa5e428d</sup>
 
 <sub>Kaspersky check results:</sub><br>
-https://opentip.kaspersky.com/F3577BCC9D9B1D5EA84968BDFF353A9CB6FAB3D669EC842BED7BA4FEFA5E428D
+<sup>https://opentip.kaspersky.com/F3577BCC9D9B1D5EA84968BDFF353A9CB6FAB3D669EC842BED7BA4FEFA5E428D</sup>
