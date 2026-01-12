@@ -1,7 +1,7 @@
 # RTFCompare
 RTFCompare is an application that helps compare new RTF outputs with previous versions to identify differences.
 
-It is a Python app compiled into single-file Windows 10\11 executable using Nuitka tool. No installation required, just copy to any comvenient location and run.
+It is a Python app compiled into single-file Windows 10\11 executable using Nuitka tool. No installation required, just copy to any convenient location and run.
 
 The main window allows you to select two folders containing RTF files: one with older versions and one with newer versions. You can run the comparison, copy results to the clipboard, or clear the results area. The tool automatically pairs files by filename and analyzes each RTF document, extracting and comparing three sections: Header, Body, and Footer. Differences between versions are clearly displayed in a color-coded results table. Users can also use the main menu or hotkeys to select folders, save results to TXT or CSV files, run comparisons, and more.
 
